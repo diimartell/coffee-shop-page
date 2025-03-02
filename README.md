@@ -1,4 +1,4 @@
-# Coffee Shop Website <img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/2590/2590478.png" />
+# Coffee Shop Website <img height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/2405/2405441.png" />
 
 
 O projeto foi feito para estudos de Front-End, e consiste em uma página de um coffee shop.
